@@ -10,8 +10,8 @@
 // The graal header in which the solution is coded.
 #include "graal.h"
 
-// #define which_lib graal // uncomment this if you wanna run the graal library
-#define which_lib std  // uncomment this if you wanna run the std library.
+#define which_lib graal // uncomment this if you wanna run the graal library
+//#define which_lib std  // uncomment this if you wanna run the std library.
 
 int main() {
   // Creates a test manager for the DAL class.
